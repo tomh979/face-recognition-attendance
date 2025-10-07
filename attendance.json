@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": 5,
+        "user_name": "Fatema Salim",
+        "checkin_type": 4,
+        "checkin_name": "Evening End",
+        "timestamp": "2025-10-06T16:40:05.127256",
+        "date": "2025-10-06",
+        "day": "Monday"
+    },
+    {
+        "user_id": 6,
+        "user_name": "Alzahra Ahmed",
+        "checkin_type": 4,
+        "checkin_name": "Evening End",
+        "timestamp": "2025-10-06T16:42:40.083398",
+        "date": "2025-10-06",
+        "day": "Monday"
+    },
+    {
+        "user_id": 7,
+        "user_name": "Atyab",
+        "checkin_type": 4,
+        "checkin_name": "Evening End",
+        "timestamp": "2025-10-06T16:50:53.154641",
+        "date": "2025-10-06",
+        "day": "Monday"
+    },
+    {
+        "user_id": 6,
+        "user_name": "Alzahra Ahmed",
+        "checkin_type": 1,
+        "checkin_name": "Morning Start",
+        "timestamp": "2025-10-07T09:00:24.416356",
+        "date": "2025-10-07",
+        "day": "Tuesday"
+    },
+    {
+        "user_id": 5,
+        "user_name": "Fatema Salim",
+        "checkin_type": 1,
+        "checkin_name": "Morning Start",
+        "timestamp": "2025-10-07T09:02:55.396114",
+        "date": "2025-10-07",
+        "day": "Tuesday"
+    },
+    {
+        "user_id": 8,
+        "user_name": "Osama",
+        "checkin_type": 1,
+        "checkin_name": "Morning Start",
+        "timestamp": "2025-10-07T09:10:27.561419",
+        "date": "2025-10-07",
+        "day": "Tuesday"
+    }
+]

@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+deepface
+sqlalchemy
+pandas
+plotly
+numpy
+pillow
+python-dateutil
